@@ -1,0 +1,11 @@
+<ExtensionModel>	
+	<Extension path = "/MonoDevelop/Ide/DisplayBindings">			
+		<DisplayBinding
+			id = "ImageViewer"
+			insertafter ="AssemblyBrowser"
+			class = "MonoDevelop.ImageViewer.ImageViewerDisplayBinding" />
+	</Extension>
+	<Extension path = "/MonoDevelop/Ide/Pads/ProjectPad">
+		<NodeBuilder id = "ImageViewerNodeExtension" class = "MonoDevelop.ImageViewer.ImageViewerNodeExtension"/>
+	</Extension>
+</ExtensionModel>

@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="MonoDevelop.ImageViewer.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="MonoDevelop.ImageViewer/DisplayBinding.cs" Line="51" Column="4" />
+      <File FileName="MonoDevelop.ImageViewer.addin.xml" Line="15" Column="53" />
+      <File FileName="MonoDevelop.ImageViewer/ImageViewerNodeExtension.cs" Line="42" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/mnt/data/Developpements/Magic3D/tests/Program.cs" line="17" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

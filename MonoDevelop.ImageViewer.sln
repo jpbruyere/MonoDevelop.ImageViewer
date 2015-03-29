@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDevelop.ImageViewer", "MonoDevelop.ImageViewer.csproj", "{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tests", "..\..\..\..\..\..\..\data\Developpements\Magic3D\tests\tests.csproj", "{F2AB9979-0106-4AE6-88FB-70ED76503C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Debug|x86.Build.0 = Debug|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Release|x86.ActiveCfg = Release|Any CPU
+		{58F1D346-CF7A-4398-ABA9-A6DDB8DA3DBC}.Release|x86.Build.0 = Release|Any CPU
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Debug|Any CPU.Build.0 = Debug|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Debug|x86.ActiveCfg = Debug|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Debug|x86.Build.0 = Debug|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Release|Any CPU.ActiveCfg = Release|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Release|Any CPU.Build.0 = Release|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Release|x86.ActiveCfg = Release|x86
+		{F2AB9979-0106-4AE6-88FB-70ED76503C71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
